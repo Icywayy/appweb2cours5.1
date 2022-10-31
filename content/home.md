@@ -1,13 +1,10 @@
 ---
-author: "Your Name"
-title: "My First Post"
-date: "2022-05-17"
+author: "Yvener Pierre-Louis"
+title: "Examen"
+date: "2022-10-31"
 ---
 
-- Yvener Pierre-Louis Verna
-- e1971591
-- 420-5D2-MA APPLICATIONS WEB 2
-- Patrick Pierre
+- JAMSTACK + HUGO
 
 # Subheading
 This is some content.
